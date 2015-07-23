@@ -1,4 +1,4 @@
-FROM golang:1.4.2
+FROM hypriot/rpi-golang:1.4.2
 MAINTAINER Francis Chong <francis@ignition.hk>
 
 ADD build /build
