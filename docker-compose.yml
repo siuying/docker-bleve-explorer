@@ -1,0 +1,6 @@
+explorer:
+  build: .
+  volumes:
+    - ./data:/bleve-explorer/data
+  ports:
+    - "8095:8095"
