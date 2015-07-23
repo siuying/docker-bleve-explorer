@@ -1,3 +1,0 @@
-gom "github.com/gorilla/mux"
-gom "github.com/blevesearch/bleve"
-gom "github.com/elazarl/go-bindata-assetfs"
